@@ -1,0 +1,202 @@
+{
+  "data": [
+    {
+      "name": "Dwight  Bueno",
+      "gender": "male",
+      "status": "married",
+      "birthdate": "1992-09-13",
+      "age": 31,
+      "occupation": " lgu employee",
+      "email": "3243443@gmail.com",
+      "phone": "09279937050",
+      "active": true,
+      "id": "701a"
+    },
+    {
+      "name": "Zsofia L. Bueno",
+      "gender": "female",
+      "status": "single",
+      "birthdate": "2024-04-13",
+      "age": 0,
+      "occupation": "infant/ null",
+      "email": "zofie_4@hotmail.com",
+      "phone": "23423000",
+      "active": true,
+      "id": "b868"
+    },
+    {
+      "name": "joanna mawi",
+      "gender": "female",
+      "status": "single",
+      "birthdate": "2000-12-01",
+      "age": 23,
+      "occupation": "employed",
+      "email": "prit@hotmail.com",
+      "phone": "54545345",
+      "active": true,
+      "id": "68e3"
+    },
+    {
+      "name": "Emilou Leal Bueno",
+      "gender": "female",
+      "status": "married",
+      "birthdate": "1993-08-06",
+      "age": 31,
+      "occupation": "DAR EMPLOYEE",
+      "email": "Emz@hotmail.co.cc",
+      "phone": "43214433",
+      "active": true,
+      "id": "20e0"
+    },
+    {
+      "name": "Douglass",
+      "gender": "male",
+      "status": "widowed",
+      "birthdate": "1989-03-05",
+      "age": 35,
+      "occupation": "farmer",
+      "email": "43244",
+      "phone": "24324",
+      "active": true,
+      "id": "3ea8"
+    },
+    {
+      "name": "name one thw",
+      "gender": "male",
+      "email": "23423434",
+      "phone": "242334",
+      "active": true,
+      "id": "9bf7"
+    },
+    {
+      "name": "Annie Bueno",
+      "gender": "female",
+      "status": "married",
+      "birthdate": "1964-05-16",
+      "age": 60,
+      "occupation": "annieb@hotmail.com",
+      "email": "324342",
+      "phone": "565466",
+      "active": true,
+      "id": "8f8b"
+    },
+    {
+      "id": "c096",
+      "name": "56546456",
+      "gender": "male",
+      "email": "456456",
+      "phone": "4564565656",
+      "active": true
+    },
+    {
+      "id": "9336",
+      "name": "56454645",
+      "gender": "male",
+      "email": "5465465",
+      "phone": "456546456546",
+      "active": true
+    },
+    {
+      "id": "6273",
+      "name": "54654",
+      "gender": "male",
+      "email": "65645645",
+      "phone": "678788678",
+      "active": true
+    },
+    {
+      "id": "0276",
+      "name": "john manalo",
+      "gender": "male",
+      "email": "jonny@hotmail.com",
+      "phone": "45355",
+      "active": true
+    },
+    {
+      "id": "6e1f",
+      "name": "xander ford",
+      "gender": "male",
+      "email": "yolo@ymail.com",
+      "phone": "7665767657",
+      "active": true
+    },
+    {
+      "id": "f055",
+      "name": "alex ramos",
+      "gender": "male",
+      "email": "ddfsdsd@yaw.xd",
+      "phone": "898989898",
+      "active": true
+    },
+    {
+      "name": "Mike CAPITAL",
+      "gender": "male",
+      "status": "single",
+      "email": "efdsfs",
+      "phone": "3423434",
+      "active": false,
+      "id": "c7cc"
+    },
+    {
+      "id": "8ba7",
+      "name": "dwight howard",
+      "gender": "female",
+      "email": "yadsdsasad",
+      "phone": "6545454",
+      "active": true
+    },
+    {
+      "id": "2830",
+      "name": "Tomiach cruiz",
+      "gender": "female",
+      "email": "nothin@hotmail.com",
+      "phone": "090999090",
+      "active": false
+    },
+    {
+      "id": "f655",
+      "name": "Denver",
+      "gender": "male",
+      "email": "dennver@ymail.com",
+      "phone": "777777777",
+      "active": true
+    },
+    {
+      "id": "aaa0",
+      "name": "Elissa Jhenna ",
+      "gender": "female",
+      "email": "em23@gmail.com",
+      "phone": "123213313",
+      "active": false
+    },
+    {
+      "name": "Specatator",
+      "gender": "female",
+      "status": "others",
+      "email": "dssaadsad",
+      "phone": "23432443243",
+      "active": false,
+      "id": "7aba"
+    },
+    {
+      "id": "9ebe",
+      "name": "spartacuz",
+      "gender": "male",
+      "status": "separated",
+      "email": "asdasdafasf",
+      "phone": "3231233",
+      "active": false
+    },
+    {
+      "id": "3d6b",
+      "name": "marissa liams",
+      "gender": "female",
+      "status": "separated",
+      "birthdate": "2012-04-17",
+      "occupation": "housewives",
+      "email": "null",
+      "phone": "000000",
+      "active": true
+    }
+  ]
+}
